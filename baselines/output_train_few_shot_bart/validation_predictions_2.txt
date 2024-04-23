@@ -1,0 +1,100 @@
+3 shows the performance of the treelstm model on our recursive framework , with the large movie review dataset performing best on training .
+table 1 shows the performance improvement of the treernn model when the batch size increases from 1 to 25 . the performance improvement is comparable to that of the linear dataset .
+4 - 5 shows the performance of the max pooling strategy for each model with different representation size .
+3 shows the effect of using the shortest dependency path on each relation type . our model achieves the best f1 ( in 5 - fold ) without sdp .
+results are shown in table 1 . y - 3 : y - 3 is significantly better than y - 2 : y , but significantly worse .
+3 shows the performance of the mst - parser on the essay level . our results show that the results of our tests are significantly better than those of our test scores . we also show that our tests outperform the test scores of the other test scores by a significant margin .
+4 shows the performance of the two indicated systems on the lstm - parser and stagblcc test sets .
+3 shows the results of our test . the results are shown in table 1 . the results of the test are presented in table 2 . we show that the original is better than the original .
+3 shows the performance of our original e2e data and our cleaned version . our cleaned version performs better than our original version .
+3 shows the results of the original test . the results are presented in table 1 . we show that the original is better than the original . we also show that our original test outperforms the original by a significant margin .
+4 shows the results of manual error analysis of tgen on a sample of 100 instances from the original test set . we found that the original tgen had a significant number of errors .
+results are presented in table 1 . we show that our model outperforms the previous model by 0 . 2m .
+results on amr17 are presented in table 2 . we show the performance of the gcnseq model in terms of bleu points . our model size is significantly smaller than the ggnn2seqb model . the performance of our model is significantly lower than that of ggnn 2seq .
+results are presented in table 2 . we show that our model outperforms our model on the english - german model . our models outperform our model by a significant margin .
+table 5 shows the effect of the number of layers inside dc on the performance of the layers in dc .
+3 shows the performance of gcns with residual connections compared to baselines with baselines .
+3 shows the performance of dcgcn ( 2 ) on the model . the results are shown in table 1 .
+3 shows the density of the dense blocks on the dev set of amr15 . the density of dense blocks is shown in table 8 . - { i } dense blocks denotes removing the dense connections in the i - th block .
+table 9 shows the results of ablation study for the graph encoder and the lstm decoder . the results are shown in table 9 . ablation studies for the graph encoder are performed in the same manner as ablation study .
+3 shows the performance of our initialization strategies on probing tasks . we show the results of our experiments on the subjnum and subjnum tasks .
+3 shows the results of our method . the results are shown in table 1 .
+3 shows the results of our method . the results are shown in table 1 . we use the sst2 method to evaluate the performance of cbow / 784 . our method outperforms the mrpc method by a significant margin .
+3 shows the relative performance of our models on unsupervised downstream tasks attained by our models .
+3 shows the performance of our initialization strategies on supervised downstream tasks . we show that our model outperforms our own model on the supervised downstream task .
+3 shows the performance of cbow - c on the unsupervised downstream tasks . we show the results for both cbow and cmow - r .
+3 shows the results of the cbow - r method . the results are shown in table 1 .
+3 shows the results of the cbow - r method . we show the results for both cmow - c and sst2 . the results are similar for both models , but the results are different for both .
+3 shows the performance of our system in e + loc , e - per , and e − misc . our system outperforms all the other systems in e - loc , e + misc , e - misc , and e + per . we also show that our system performs better than all other systems on e + loc , e . g . , e + misc and e - per .
+results on the test set under two settings are shown in table 2 . our model achieves 95 % confidence intervals of f1 scores on both settings .
+3 shows the performance of the model compared to the model . we show that the model outperforms the model by a significant margin .
+3 shows the performance of the ldc2017t10 model compared to ldc2015e86 model . our results show that the model outperforms the model in terms of performance .
+3 shows the results of the ldc2015e86 test set when gigaword data are trained with additional gigawords data .
+results of the ablation study on the ldc2017t10 development set are shown in table 4 .
+results are shown in table 2 . our model outperforms the g2s - ggnn model by a significant margin . we also observe that the model performs significantly better than the model , but the model does not perform as well as the model .
+3 shows the results of the test set of ldc2017t10 . the results are shown in table 8 . our model outperforms the model by a significant margin . we also observe that the model outperform the model in terms of performance .
+3 shows the performance of the 4th nmt encoding layer on a smaller parallel corpus ( 200k sentences ) .
+table 2 shows the results of our classifier , word2tag . the results of the classifier are shown in table 2 . our classifier outperforms all other classifiers in terms of performance .
+3 shows the performance of pos tagging accuracy on the postagging accuracy scale . we also show the performance on our pos tigering accuracy scale , which is comparable to the performance achieved on our s - based system .
+3 shows the accuracy of the uni / bidirectional / residual nmt encoders over non - english target languages .
+3 shows the performance of the attacker on the training set .
+table 1 shows the results of training directly towards a single task . the results are shown in table 1 . we observe that the performance of the task is comparable to that of pan16 .
+3 shows the results of the protected attribute leakage experiments . the results are shown in table 2 .
+3 shows the performance of the adversarial training on the pan16 dataset . the performance on pan16 is the difference between the attacker score and the corresponding adversary ’ s .
+3 shows the performance of the protected attribute with different encoders . the performance of rnn and rnn is comparable to that of the embedding guarded attribute .
+results are presented in table 1 . this model outperforms the previous model by a significant margin . we also observe that this model performs better than the current model by significantly outperforming the previous one .
+3 presents the results of our model . we show that our model outperforms our model by a significant margin .
+3 shows the performance of the lstm model on the yelppolar time dataset . this model outperforms all the other models in our model . we also observe that this model performs better than all other models .
+3 shows the bleu score on the wmt14 english - german translation task . we also show the performance of our model on the gleu task .
+3 shows the performance of the model on squad dataset . the model outperforms the previous model by 2 . 5 % on the model . we also observe that the model performs better than the previous models by 2 - 3 % on a single dataset .
+3 shows the f1 score on conll - 2003 english ner task . the f1 scores are shown in table 6 . lstm * denotes the parameter number . we also observe that the f2 score is significantly higher than the average score of the ner tasks .
+3 shows the performance of our model on snli task with base setting and ptb task with ptb setting . our model outperforms the snli model with base setting .
+3 shows the performance of our system . the performance of the system is similar to that of the human system , however , the results are slightly different . the human system outperforms the system in terms of performance .
+4 shows the results of human evaluation on grammaticality ( gram ) , appropriateness ( appr ) , and content richness ( cont . ) , on a scale of 1 to 5 .
+results are shown in table 1 . our results show that our model outperforms our model by a significant margin .
+results are shown in table 1 . our results show that our model outperforms our model by a significant margin . we also observe that our models outperform our model .
+results are shown in table 1 . our results show that our model outperforms our model by a significant margin .
+3 shows the results of our study . the results are shown in table 1 . our results show that our results are significantly better than those of the other models . we also observe that our model outperforms our model by a significant margin .
+3 shows the results of our study . the results are shown in table 1 . europarl shows the performance of our model . we also show that our model outperforms our model by a significant margin . however , we also observe that our models outperform our model on the metric .
+3 shows the performance of our model on the validation set of visdial v1 . 0 . lf is the enhanced version as we mentioned in table 1 . lf outperforms the original visdial .
+table 2 shows the performance ( ndcg % ) of the ablative studies on visdial v1 . 0 validation set . p2 is implemented by the implementations in section 5 .
+3 shows the performance of hmd - prec and wmd - f1 on hard alignments and soft alignments .
+3 shows the performance of the bertscore - f1 test set . metrics are shown in table 1 . the metrics show that the test set outperforms the baseline set by a significant margin .
+3 shows the performance of the bleu - 1 model on the bertscore - f1 model . our model outperforms all the other baselines in terms of performance . we also observe that the model performs better than the baselines on the smd model .
+3 shows the performance of the wmd - 1 and w2v models on the bertscore - recall model . the results are shown in table 1 . our model outperforms our model by a significant margin . in table 1 , we see that our model performs better than our model .
+3 shows the performance of the m1 and m2 models . m1 outperforms the m2 model by a significant margin . m2 outperforms m2 by a large margin .
+results are presented in table 2 . we show that our model outperforms the previous model by significantly outperforming the previous one . we also show that we outperform the previous two models by a significant margin .
+3 shows the results of human sentence - level validation of the human sentences . the results are shown in table 5 . we also show that human sentences perform better than machine and human judgments . our results show that our human sentences outperform machine sentences .
+results are presented in table 1 . m1 and m2 outperform m2 in terms of performance and performance . m0 outperforms m2 by 0 . 8 % and m1 outperforms both m2 and m3 by 1 . 5 % respectively .
+results on yelp sentiment transfer are shown in table 6 . our best models achieve the highest bleu than our best models . the best models outperform the best models by a significant margin .
+3 shows the results of nested disfluencies . the results are shown in table 2 .
+table 3 shows the relative frequency of disfluent rephrases correctly predicted for disfluencies in both the reparandum and the repair ( content - function ) .
+results are presented in table 2 . we show the results of our model in table 1 . our model outperforms the model in terms of performance .
+3 shows the performance of word2vec embedding on the fnc - 1 test dataset . we show that our model performs better than the state - of - art models on the test dataset , but it performs worse than our model .
+3 shows the performance of the unified model on the apw and nyt datasets for document dating problem .
+3 shows the performance of both word attention and graph attention for the word attention task . we show that word attention outperforms graph attention .
+3 shows the performance of the jnn model compared to jmee and jmee .
+3 shows the results of the cross - event method . we show that the method outperforms the method in terms of f1 , f1 and f1 . our results show that cross - event outperforms f1 in both cases .
+results are shown in table 1 . all of the models have the same performance as the previous model .
+3 shows the results on the dev set and on the test set using discriminative training with only subsets of the train dev .
+3 shows the performance on the dev set compared to the monolingual set . we show the performance of the gold sentence on the test set , as shown in table 5 .
+results are shown in table 7 . precision ( p ) , recall ( r ) and f1 - score ( f ) for using type - aggregated gaze features trained on all three eye - tracking datasets and tested on the conll - 2003 dataset ( table 7 ) .
+3 shows the performance improvement for using type - aggregated gaze features on the conll - 2003 dataset ( table 5 ) . the performance improvement is statistically significant . we also show that the precision improvement is significantly greater than the recall improvement .
+3 presents the results of belinkov2014exploring ’ s ppa test set . the results are presented in table 1 . glove - retro is used to embed embeddings in wordnet and verbnet .
+3 shows the results of rbg dependency parser with features coming from various pp attachment predictors .
+table 3 shows the effect of removing sense priors and context sensitivity ( attention ) from the model .
+3 shows the performance of the domain tuning for image caption translation ( bleu % scores ) . the results are shown in table 2 . the domain tuning outperforms the domain - tuned domain tuning .
+3 shows the performance of the subs1m subdomain - tuned subdomain . our results show that the subdomain tuned subdomain is significantly better than the domain - tunned subdomain , and that subdomain tuning outperforms domain tuning . we also show the performance improvement of subdomain and subdomain combined with domain tuning , respectively . the performance improvement is comparable to that of the domain tuning subdomain underdomain , however , we see that the domains are significantly worse .
+3 shows the bleu scores with marian amun . the results are shown in table 4 . the results show that the automatic image captions outperform the automatic images captions .
+3 shows the performance of the embeddings on the en - de model . we also compare the performance on the enc - gate and dec - gate models . our results show that the embedduers outperform enc - gates in terms of performance .
+3 shows the performance of subs3m and subs6m in terms of text - only features . the performance is significantly better than the performance achieved by subs3m . however , the performance is still significantly worse than subs6m and subs7m , respectively .
+3 shows the performance of the en - fr - rnn - ff and en - es - t - ff , respectively .
+table 1 shows the number of parallel sentences in the train , test and development splits for each language pair .
+3 shows the performance of our training vocabularies for the english , french and spanish data .
+3 shows the results of automatic evaluation scores for rev systems . bleu , ter , and en - fr - rnn - rev are the best performing systems for the rev system .
+3 shows the performance of the vgs model on flickr8k . the results are shown in table 2 . vgs is the visually supervised model from chrupala2017representations .
+results are presented in table 1 . we show the performance of the vgs model on the standard coco dataset .
+3 shows the results of the different classifiers compared to the original on sst - 2 . we report the results in table 1 . we show that dan turns in a < u > screenplay that shows the edges at the edges ; it ’ s so clever you want to hate it .
+3 shows the results of fine - tuning on sst - 2 . the results are shown in table 2 . we observe that the number of words in the original sentence has increased significantly .
+3 : sentiment score changes in sst - 2 . the results are shown in table 3 . the results indicate that the score increases with respect to the original sentence .
+results are presented in table 1 . the results are shown in table 2 . we observe that the performance of the sift - 2 model is significantly better than that of the other models .
